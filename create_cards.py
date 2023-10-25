@@ -57,7 +57,7 @@ with open(name, "r", encoding= "iso-8859-1") as f:
                 
 with open('cards_line_number.txt', 'w', encoding='utf-8') as out:
     for k, v in lines.items():
-        out.write(f"{k};{','.join(sorted(v))}")
+        out.write(f"{k};{','.join(sorted(v))}\n")
 
 
                 
