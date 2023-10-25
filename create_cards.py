@@ -42,7 +42,7 @@ with open(name, "r", encoding= "iso-8859-1") as f:
 
 # Metro line
 name = "stationsWithRERNoAccent20231019.data"
-lines = set()
+lines = dict()
 with open(name, "r", encoding= "iso-8859-1") as f:
     for l in f:
         if any(map(l.startswith, 'P#@')):                
@@ -50,11 +50,14 @@ with open(name, "r", encoding= "iso-8859-1") as f:
         else:            
             station = l.strip().split(':')[1].strip()
             num = l.strip().split(':')[0].split('-')[0]
-            lines.add(f"{station};{num}\n")
+            if station in lines:
+                lines[station].append(num)
+            else:
+                lines[station] = [num]
                 
 with open('cards_line_number.txt', 'w', encoding='utf-8') as out:
-    for l in lines:
-        out.write(l)
+    for k, v in lines.items():
+        out.write(f"{k};{','.join(sorted(v))}")
 
 
                 
