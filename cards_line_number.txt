@@ -1,10 +1,10 @@
-Grande Arche de La Defense;1-A
+Grande Arche de La Defense;1
 Esplanade de La Defense;1
 Pont de Neuilly;1
 Les Sablons;1
 Porte Maillot;1
 Argentine;1
-Charles de Gaulle - Etoile;1-2-6-A
+Charles de Gaulle - Etoile;1-2-6
 George V;1
 Franklin-D. Roosevelt;1-9
 Champs Elysees - Clemenceau;1-13
@@ -16,9 +16,9 @@ Chatelet;1-11-14-4-7
 Hotel de Ville;1-11
 Saint-Paul;1
 Bastille;1-5-8
-Gare de Lyon;1-14-A
+Gare de Lyon;1-14
 Reuilly - Diderot;1-8
-Nation;1-2-6-9-A
+Nation;1-2-6-9
 Porte de Vincennes;1
 Saint-Mande - Tourelle;1
 Berault;1
@@ -76,7 +76,7 @@ Porte de Clignancourt;4
 Simplon;4
 Marcadet - Poissonniers;12-4
 Chateau Rouge;4
-Gare du Nord;4-5-B
+Gare du Nord;4-5
 Gare de l'Est;4-5-7
 Chateau d'Eau;4
 Strasbourg - Saint-Denis;4-8-9
@@ -91,7 +91,7 @@ Saint-Placide;4
 Montparnasse - Bienvenue;12-13-4-6
 Vavin;4
 Raspail;4-6
-Denfert Rochereau;4-6-B
+Denfert Rochereau;4-6
 Mouton Duvernet;4
 Alesia;4
 Porte d'Orleans;4
@@ -110,7 +110,7 @@ Oberkampf;5-9
 Richard Lenoir;5
 Breguet - Sabin;5
 Quai de la Rapee;5
-Gare d'Austerlitz;10-5-C
+Gare d'Austerlitz;10-5
 Saint-Marcel;5
 Campo Formio;5
 Place d'Italie;5-6-7
@@ -181,7 +181,7 @@ Felix Faure;8
 Commerce;8
 Ecole Militaire;8
 La Tour Maubourg;8
-Invalides;13-8-C
+Invalides;13-8
 Madeleine;12-14-8
 Richelieu - Drouot;8-9
 Grands Boulevards;8-9
@@ -234,7 +234,7 @@ Boulogne - Pont de Saint-Cloud;10
 Boulogne - Jean Jaures;10
 Chardon - Lagache;10
 Mirabeau;10
-Javel;10-C
+Javel;10
 Charles Michels;10
 Avenue Emile Zola;10
 Segur;10
@@ -299,192 +299,10 @@ Asnieres Gennevilliers - Les Courtilles;13
 Les Agnettes;13
 Gabriel Peri;13
 Mairie de Clichy;13
-Porte de Clichy;13-14-C
+Porte de Clichy;13-14
 Brochant;13
-Saint-Ouen;14-C
+Saint-Ouen;14
 Pont Cardinet;14
 Cour Saint-Emilion;14
-Bibliotheque Francois-Mitterand;14-C
+Bibliotheque Francois-Mitterand;14
 Olympiades;14
-Cergy - Le Haut;A
-Cergy - St-Christophe;A
-Cergy - Prefecture;A
-Neuville - Universite;A
-Conflans - Fin d'Oise;A
-Acheres - Ville;A
-Maison-Laffitte;A
-Sartrouville;A
-Houilles - Carrieres-sur-Seine;A
-Nanterre - Prefecture;A
-Auber;A
-Chatelet - Les Halles;A-B
-Vincennes;A
-Val de Fontenay;A-E
-Neuilly - Plaisance;A
-Bry-sur-Marne;A
-Noisy-le-Grand - Mont d'Est;A
-Noisy - Champs;A
-Noisiel;A
-Lognes;A
-Torcy;A
-Bussy-Saint-Georges;A
-Val d'Europe;A
-Marne-la-Vallee - Chessy;A
-Poissy;A
-Acheres - Grand Cormier;A
-Saint-Germain-en-Laye;A
-Le Vesinet - Le Pecq;A
-Le Vesinet - Centre;A
-Chatou - Croissy;A
-Rueil-Malmaison;A
-Nanterre - Ville;A
-Nanterre - Universite;A
-Fontenay-sous-Bois;A
-Nogent-sur_Marne;A
-Joinville-le-Pont;A
-Saint-Maur - Creteil;A
-Le Parc de Saint-Maur;A
-Champigny;A
-La Varenne - Chennevieres;A
-Sucy - Bonneuil;A
-Boissy-Saint-Leger;A
-Cite Universitaire;B
-Port Royal;B
-Luxembourg;B
-Saint-Michel - Notre-Dame;B-C
-Gentilly;B
-Laplace;B
-Arcueil-Cachan;B
-Bagneux;B
-Bourg-la-Reine;B
-Sceaux;B
-Fontenay-aux-Roses;B
-Robinson;B
-Parc de Sceaux;B
-La Croix de Berny;B
-Antony;B
-Fontaine-Michalon;B
-Les Baconnets;B
-Massy - Verrieres;B
-Massy - Palaiseau;B-C
-Palaiseau - Villebon;B
-Lozere;B
-Le Guichet;B
-Orsay - Ville;B
-Bures-sur-Yvette;B
-La Hacquiniere;B
-Gif-sur-Yvette;B
-Courcelle-sur-Yvette;B
-Saint-Remy-les-Chevreuse;B
-Mitry - Claye;B
-Villeparisis - Mitry-le-Neuf;B
-Vert-Galant;B
-Sevran - Livry;B
-Aulnay-sous-Bois;B
-Aeroport Charles de Gaulle 2 - TGV;B
-Aeroport Charles de Gaulle 1;B
-Parc des Expositions;B
-Villepinte;B
-Sevran - Beaudottes;B
-Le Blanc-Mesnil;B
-Drancy;B
-Le Bourget;B
-La Courneuve - Aubervilliers;B
-La Plaine - Stade de France;B
-Pontoise;C
-Saint-Ouen l'Aumone;C
-Saint-Ouen l'Aumone - Liesse;C
-Pierrelaye;C
-Montigny Beauchamp;C
-Franconville - Le Plessis Bouchard;C
-Cernay;C
-Ermont Eaubonne;C
-Saint-Gratien;C
-Epinay-sur-Seine;C
-Gennevilliers;C
-Les Gresillons;C
-Pereire Levallois;C
-Neuilly Porte Maillot;C
-Avenue Foch;C
-Avenue Henri Martin;C
-Boulainvilliers;C
-Avenue du President Kennedy;C
-Champ de Mars - Tour Eiffel;C
-Pont de l'Alma;C
-Musee d'Orsay;C
-Ivry sur Seine;C
-Vitry sur Seine;C
-Les Ardoines;C
-Choisy le Roi;C
-Versailles Chateau - Rive Gauche;C
-Porchefontaine;C
-Viroflay - Rive Gauche;C
-Chaville - Velizy;C
-Meudon - Val Fleury;C
-Issy;C
-Issy - Val de Seine;C
-Pont du Garigliano;C
-Saint-Quentin en Yvelines;C
-Saint-Cyr;C
-Versailles Chantiers;C
-Petit Jouy les Loges;C
-Jouy en Josas;C
-Vauboyen;C
-Bievres;C
-Igny;C
-Longjumeau;C
-Chilly Mazarin;C
-Gravigny Balizy;C
-Petit Vaux;C
-Savigny sur Orge;C
-Juvisy;C
-Athis Mons;C
-Ablon;C
-Villeneuve le Roi;C
-Massy Verrieres;C
-Chemin d'Antony;C
-Rungis - La Fraternelle;C
-Pont de Rungis;C
-Orly Ville;C
-Les Saules;C
-Saint-Martin d'Etampes;C
-Etampes;C
-Etrechy;C
-Chamarande;C
-Lardy;C
-Bouray;C
-Marolles en Hurepoix;C
-Bretigny;C
-Saint-Michel sur Orge;C
-Sainte-Genevieve des Bois;C
-Epinay sur Orge;C
-Dourdan la Foret;C
-Dourdan;C
-Sermaise;C
-Saint-Cheron;C
-Breuillet Village;C
-Breuillet;C
-Egly;C
-Arpajon;C
-La Norville;C
-Haussman - Saint-Lazare;E
-Magenta;E
-Rosa Parks;E
-Pantin;E
-Noisy le Sec;E
-Bondy;E
-Le Raincy - Villemomble - Montfermeil;E
-Gagny;E
-Le Chenay - Gagny;E
-Chelles - Gourmay;E
-Rosny - Bois Perrier;E
-Rosny sous Bois;E
-Nogent Le Perreux;E
-Les Boullereaux - Champigny;E
-Villiers sur Marne - Le Plessis Trevise;E
-Les Yvris - Noisy le Grand;E
-Emerainville - Pontault Combault;E
-Roissy en Brie;E
-Ozoir la Ferriere;E
-Gretz Armainvilliers;E
-Tournan;E
