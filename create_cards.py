@@ -51,9 +51,9 @@ with open(name, "r", encoding= "iso-8859-1") as f:
             station = l.strip().split(':')[1].strip()
             num = l.strip().split(':')[0].split('-')[0]
             if station in lines:
-                lines[station].append(num)
+                lines[station].add(num)
             else:
-                lines[station] = [num]
+                lines[station] = set([num])
                 
 with open('cards_line_number.txt', 'w', encoding='utf-8') as out:
     for k, v in lines.items():
