@@ -40,12 +40,12 @@ with open(name, "r", encoding= "iso-8859-1") as f:
 
 
 
-# Metro line
+# Metro line number - No RER
 name = "stationsWithRERNoAccent20231019.data"
 lines = dict()
 with open(name, "r", encoding= "iso-8859-1") as f:
     for l in f:
-        if any(map(l.startswith, 'P#@')):                
+        if any(map(l.startswith, 'P#@ABCDE')):                
             continue
         else:            
             station = l.strip().split(':')[1].strip()
